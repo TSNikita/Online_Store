@@ -1,0 +1,85 @@
+{
+  "product": [
+    {
+      "id": 0,
+      "imageUrl": "https://krostore.ru/images/product/l/2501-adidas-marathon-flyknit-men-blackred-001-4.jpg",
+      "name": "Adidas Marathon Flyknit Men",
+      "types": [0, 1],
+      "sizes": [40, 41, 42],
+      "price": 9800,
+      "category": 0
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://spb.streetfoot.ru/wp-content/uploads/2019/02/904a0f546492a53a755c8f604a9174ec.jpg",
+      "name": "Adidas Iniki Runner",
+      "types": [1],
+      "sizes": [40, 41, 42],
+      "price": 11500,
+      "category": 0
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://nizhniy-novgorod.streetfoot.ru/wp-content/uploads/2019/02/chernye-s-zelenym-1.jpg",
+      "name": "Adidas EQT Support ADV",
+      "types": [1],
+      "sizes": [40, 41, 42],
+      "price": 7599,
+      "category": 0
+    },
+    {
+      "id": 3,
+      "imageUrl": "http://smartkros.ru/pictures/product/middle/9889_middle.jpg",
+      "name": "Nike Air Max 2014",
+      "types": [0],
+      "sizes": [40, 41, 42],
+      "price": 6399,
+      "category": 1
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://nike-off.ru/wp-content/uploads/2016/07/Nike-Air-Max-90-LTR-New-Slate-3.jpg",
+      "name": "Nike Air Max 90 LTR Blue Grey",
+      "types": [0, 1],
+      "sizes": [40, 41, 42],
+      "price": 2899,
+      "category": 1
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://krostore.ru/images/product/l/1318-nike-roshe-run-1.jpg",
+      "name": "Nike Roshe Run Men",
+      "types": [1],
+      "sizes": [40, 41, 42],
+      "price": 7544,
+      "category": 1
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://nizhniy-novgorod.streetfoot.ru/wp-content/uploads/2019/02/reebok-classic-leather-utility-sand.jpg",
+      "name": "Reebok Classic Leather Utility",
+      "types": [0],
+      "sizes": [40, 41, 42],
+      "price": 12455,
+      "category": 2
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://krostore.ru/images/product/l/3437-reebok-cl-leather-suede-008-4.jpg",
+      "name": "Reebok CL LEATHER SUEDE",
+      "types": [0, 1],
+      "sizes": [40, 41, 42],
+      "price": 13725,
+      "category": 2
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://pro100krossovki.ru/images/product/l/6747f397b.jpg",
+      "name": "Reebok Classics",
+      "types": [0],
+      "sizes": [40, 41, 42],
+      "price": 5689,
+      "category": 2
+    }
+  ]
+}
